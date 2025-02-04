@@ -21,19 +21,12 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 
 ## Video
 
-Record a short video of your story to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+![UML Diagram for my project](videothumbnail.png)https://youtu.be/40GMBMXsOhA
 
 ## Story Description
 
-Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
+My project is not exactly a story but a digital cookbook. Each scene is a scene being flipped like a book showing a new recipe. The 2D arrays being stored are the ingredients and the names of the recipes. They are in relation because each row belongs to a recipe and the column elements are the ingredients in the recipe.
+
 ## Image Filter Analysis
 
-Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+The two filters I used were the Contrast and the Gussian Blur. I first used the contrast to brighten the pixels of the image. Then I used the gussian blur to blur the image out so the ingredients would show better on the image.
